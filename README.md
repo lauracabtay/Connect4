@@ -10,5 +10,5 @@ An initial program was provided. Unfortunately, the code:
 <ul>
 <li>Didn’t compile or run</li>
 <li>Was poorly designed (e.g. was largely made up of a huge main function without comments). One of the requirements was to redesign the code to adhere to these principles.</li>
-<li>Needs extension to meet an updated specification (more players, more tokens!).</li>
+<li>Needed extension to meet an updated specification (more players, more tokens!).</li>
 </ul>
